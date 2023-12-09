@@ -18,9 +18,9 @@ const AwesomeTerminal: React.FC = () => {
       top="-60%"
       margin={{ base: "auto", sm: "none" }}
       transform={{ base: "none", sm: "rotate(-30deg)" }}
-      border={{ base: "none", sm: "20px solid #fff" }}
+      border={{ base: "none", sm: "20px solid #eee" }}
       rounded={{ base: "0", sm: "20px" }}
-      borderBottom={{base: "20px solid #fff"}}
+      borderBottom={{base: "20px solid #eee"}}
     >
       <Box
         position={{ base: "static", sm: "absolute" }}
